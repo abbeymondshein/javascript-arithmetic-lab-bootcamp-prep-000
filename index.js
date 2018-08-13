@@ -1,4 +1,4 @@
 function add(a,b){
-	a + b = result
+	result = a+b
 	return result
 }
