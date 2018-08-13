@@ -23,3 +23,9 @@ function inc(n){
   result
   return result
 }
+
+function dec(n){
+  var result = --n
+  return result
+}
+
